@@ -6,6 +6,6 @@
   
 ![](Test000000.tif)
   
-![](Test000000_Resized.jpg)   ![](Test000000_Resized.jpg)   ![](Test000000_Resized.jpg)
+![](Test000000_Resized.jpg)       ![](Test000000_Resized.jpg)       ![](Test000000_Resized.jpg)
 
 ![](DuneAngles.PNG)
