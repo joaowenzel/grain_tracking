@@ -6,5 +6,5 @@
 
 White_RGB             | Black_RGB         | White_GrayScale
 :-------------------------:|:-------------------------:|:-------------------------:
-![](Test000000_Resized.jpg)  |  ![](Test000000_Resized.jpg)  |  ![](Test000000_Resized.jpg)
+![](Test000000_Resized.jpg)  |  ![](Black_RGB.jpg)  |  ![](Test000000_Resized.jpg)
 
