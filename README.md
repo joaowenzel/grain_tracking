@@ -4,4 +4,8 @@
   
   Observation: the three folders in the repository are versions of the same code. The names "Black" and "White" refers to the color of the dune (black: 98% of grains are black and 2% are white (tracers), white: the opposite), and "RGB" and "GrayScale" refers to the file format.
  
-![](DuneAngles.PNG) ![](DuneMesh.PNG) ![](DuneRadius.PNG)
+![](DuneAngles.PNG) 
+
+![](DuneMesh.PNG) 
+
+![](DuneRadius.PNG)
