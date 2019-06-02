@@ -8,6 +8,8 @@ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](Test000000_Resized.jpg)  |  ![](Test000000_Resized.jpg)
 
-Solarized dark                       |  Solarized Ocean
-:---------------------------------:|:---------------------------------:
-:![](Test000000_Resized.jpg)        :|:  ![](Test000000_Resized.jpg):
+Solarized dark             |  Solarized Ocean          |  Solarized Ocean 
+:-------------------------:|:-------------------------:|:-------------------------:
+![](Test000000_Resized.jpg)  |  ![](Test000000_Resized.jpg)  |  ![](Test000000_Resized.jpg)
+
+
