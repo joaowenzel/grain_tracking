@@ -6,4 +6,4 @@
   
   ![](Test000000.tif)
   
-  ![](Test000000_Resized.tif)
+![](Test000000_Resized.tif)
