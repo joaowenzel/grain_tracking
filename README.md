@@ -6,6 +6,8 @@
 
 
 
+
+
 White_RGB             |  Black_RGB             |  White_GrayScale
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](Figures/White_RGB.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)
