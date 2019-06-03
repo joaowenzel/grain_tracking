@@ -11,4 +11,4 @@ White_RGB             | Black_RGB         | White_GrayScale
 
 White_RGB             | Black_RGB         | White_GrayScale
 :-------------------------:|:-------------------------:|:-------------------------:
-![](Figure/White_RGB.jpg)  |  ![](Figure/Black_RGB.jpg)  |  ![](Figure/White_GrayScale.jpg)
+![](Figures/White_RGB.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)
