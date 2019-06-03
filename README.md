@@ -12,3 +12,7 @@ White_RGB             | Black_RGB         | White_GrayScale
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](White_RGB.jpg)  |  ![](Black_RGB.jpg)  |  ![](White_GrayScale.jpg)
 
+White_RGB             | Black_RGB         | White_GrayScale
+:-------------------------:|:-------------------------:|:-------------------------:
+![](White_RGB2.jpg)  |  ![](Black_RGB.jpg)  |  ![](White_GrayScale.jpg)
+
