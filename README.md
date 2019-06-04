@@ -92,7 +92,19 @@ and adjust the "threshold" and "arealim" variables to obtain good tracers positi
 Go to "FiguresAndPlots" function 
 
 ```
-dir = 'INSERT YOUR DIRECTORY HERE\T(number of your test)_contourf';
+        dir = 'INSERT YOUR DIRECTORY HERE\T(number of your test)_quiver';
+        figure,
+        quiver(XX,YY,velX2_mean,velY2_mean,1.1);    
+        set(gca,'Ydir','reverse')
+        set(gca,'FontSize',16)
+        xlim([0 80])
+        ylim([0 100])
+        xticks([0 10 20 30 40 50 60 70 80])
+        yticks([0 10 20 30 40 50 60 70 80 90 100])
+        xlabel ('x ($mm$)','FontSize',16)
+        ylabel ('y ($mm$)','FontSize',16)
+        saveas(gcf,strcat(dir), 'epsc');
+        saveas(gcf,strcat(dir), 'jpeg');
 ```
 
 
