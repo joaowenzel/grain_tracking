@@ -8,7 +8,7 @@
 
   White_RGB             |  Black_RGB             |  White_GrayScale
 :-------------------------:|:-------------------------:|:-------------------------:
-![](Figures/uait_rgb.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)
+![](Figures/)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)
 
 
 
