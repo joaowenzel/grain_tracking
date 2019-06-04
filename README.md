@@ -17,6 +17,23 @@
 ![](Figures/White_RGB_Raw.jpg)  |  ![](Figures/White_RGB_Processed.jpg)  
 
 
+frequency_T1 = 300;         % Frequency of image acquisition
+n_T1 = 1;                   % Initial image
+nf_T1 = 3000;               % Final image
+threshold_T1 = 250;         % Threshold to differentiate the grains and the bottom wall of the channel
+arealim_T1 = [3 150];       % Determine the lower and upper bound of area of each grain (Pixels)
+MD2SF_T1 = 37.4519;         % Maximum distance to search for the same grain in the next image (Pixels)
+MinTS_T1 = 101.4339;        % Minimal tracking size to consider in lagrangian (Pixels)
+deltaY_T1 = 2;              % deltaY & speedY are used to determine and filter the tracking,in order to get just the time when the                                   % particle is in movement...
+speedY_T1 = 0.6;            % disregarding the time in which it remains stopped
+height = 1024;              % Image height (Pixels)
+width = 800;                % Image width (Pixels)
+step_T1 = 1;                % Here is possible to choose the gap between the images. Ex. if step == 1: image n°1->n°2; n°2->n°3; n°3-                               % >n°4... if step == 2: image n°1->n°3; n°2->n°4; n°3->n°5 ans so on...         
+mesh_T1 = 25;               % Determine the mesh size that will be generated on the image
+median2cut_T1 = 2;          % Used in filter, if the element of the mesh has lees than "meanEleXY"(amount of images that has valid movement in each element of mesh) times "minEl2verify"(given in %) elements,                                                          
+MinEl2VrPercent_T1 = 27;    % the filter calculates the median value arround this element, and if it's value is greater than                                         % "median2cut" times the median value it is replaced by the median value
+P2MM = 0.0992906802568982;  % Pixel to milimeter conversion factor
+
 
 
 
