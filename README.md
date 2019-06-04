@@ -38,6 +38,38 @@ P2MM = 0.0992906802568982;  % Pixel to milimeter conversion factor
 %***********************************************************************************************
 ```
 
+## Step 2
+
+Use the following "for" of the main function:
+
+```
+for m = n_T1:nf_T1
+    clf
+    time_T1 = (m-1)*time_img_T1;
+    Iname = lst(m);
+    I = imread([Iname.name]);
+    [inverter] = Inverter(I);  % This function reverses the image to make the tracers white
+    [pos,props,Area] = TracerIdentifier(inverter,threshold_T1,arealim_T1);
+    posx = pos(:,1);
+    posy = pos(:,2);
+    [limit] = Limit(I);
+    allposXY_T1{1,m} = posx;   % Position on the x-axis of each tracer grain detected in the image
+    allposXY_T1{2,m} = posy;   % Position on the y-axis of each tracer grain detected in the image
+    allposXY_T1{3,m} = limit;  % Central point of dune slip face
+    allposXY_T1{4,m} = Area;   % Area of each tracer grain detected in the image
+    subplot(1,2,1)
+    imshow(I)    
+    title([' Raw Image ',num2str(m),' of ',num2str(nf_T1)])
+    subplot(1,2,2)
+    imshow(inverter)    
+    title(['Processed Image ',num2str(m),' of ',num2str(nf_T1)])
+    hold on
+    plot(posx,posy,'ro')
+    pause(0.001)
+end
+```
+and adjust the "threshold" and "realism" variables to obtain a good identification of the positions of the tracers.
+
   White_RGB_Raw             |  White_RGB_Processed            
 :-------------------------:|:-------------------------:
 ![](Figures/White_RGB_Raw.jpg)  |  ![](Figures/White_RGB_Processed.jpg)  
