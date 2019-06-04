@@ -9,7 +9,7 @@
   
 White_RGB             |  Black_RGB             |  White_GrayScale
 :-------------------------:|:-------------------------:|:-------------------------:
-![]()  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)
+![](uait_rgb.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)
 
 
 
