@@ -12,9 +12,9 @@
 
 
 
-  White_RGB_Raw             |  Black_RGB_Processed            
+  White_RGB_Raw             |  White_RGB_Processed            
 :-------------------------:|:-------------------------:
-![](Figures/White_RGB_Raw.jpg)  |  ![](White_RGB_Processed.jpg)  
+![](Figures/White_RGB_Raw.jpg)  |  ![](Figures/White_RGB_Processed.jpg)  
 
 
 
