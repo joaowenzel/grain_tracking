@@ -68,7 +68,8 @@ for m = n_T1:nf_T1
     pause(0.001)
 end
 ```
-and adjust the "threshold" and "realism" variables to obtain a good identification of the positions of the tracers.
+
+and adjust the "threshold" and "arealim" variables to obtain good tracers positions identification:
 
   White_RGB_Raw             |  White_RGB_Processed            
 :-------------------------:|:-------------------------:
