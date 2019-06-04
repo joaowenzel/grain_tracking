@@ -17,6 +17,7 @@
 ![](Figures/White_RGB_Raw.jpg)  |  ![](Figures/White_RGB_Processed.jpg)  
 
 
+```
 frequency_T1 = 300;         % Frequency of image acquisition
 n_T1 = 1;                   % Initial image
 nf_T1 = 3000;               % Final image
@@ -62,7 +63,7 @@ for m = n_T1:nf_T1
     plot(posx,posy,'ro')
     pause(0.001)
 end
-
+```
 
 
 
