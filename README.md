@@ -14,7 +14,7 @@
 # How do I use it?
 ## Step 1 
 
-Set the variables in the main function (White_RGB = allposXY, Black_RGB = B_allposXY and White_GrayScale = N_allposXY):_ 
+Set the variables in the main function (White_RGB = allposXY, Black_RGB = B_allposXY and White_GrayScale = N_allposXY):
 
 
 ```
@@ -78,7 +78,7 @@ for m = n_T1:nf_T1
 end
 ```
 
-
+a__
 and adjust the "threshold" and "arealim" variables to obtain good tracers positions identification:
 
 
