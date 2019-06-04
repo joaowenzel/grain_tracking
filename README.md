@@ -50,6 +50,7 @@ If you need another mesh size, you need to change the "spiral" function. If you 
 
 Use the following "for" of the main function:
 
+
 ```
 for m = n_T1:nf_T1
     clf
@@ -77,7 +78,10 @@ for m = n_T1:nf_T1
 end
 ```
 
+
 and adjust the "threshold" and "arealim" variables to obtain good tracers positions identification:
+
+
 
   White_RGB_Raw             |  White_RGB_Processed            
 :-------------------------:|:-------------------------:
