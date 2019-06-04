@@ -22,9 +22,9 @@ White_RGB             |  Black_RGB             |  White_GrayScale            | W
 ![](Figures/White_RGB.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)  |  ![](Figures/Raw_White_RGB2.png)
 
 
-White_RGB_PNG             |  White_RGB_JPG              
-:-------------------------:|:-------------------------:
-![](Figures/Raw_White_RGB2.png)  |  ![](Figures/Raw_White_RGB2.jpg) 
+White_RGB_Raw              |  White_RGB_Processed             |  White_RGB_Processed              
+:-------------------------:|:-------------------------:|:-------------------------:
+![](Figures/Raw_White_RGB2.png)  |  ![](Figures/Processed_White_RGB.jpg)  |  ![](Figures/Processed_White_RGB.jpg) 
 
 
 
