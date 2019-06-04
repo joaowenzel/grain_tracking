@@ -92,7 +92,7 @@ and adjust the "threshold" and "arealim" variables to obtain good tracers positi
 Go to "FiguresAndPlots" function 
 
 ```
-        dir = 'INSERT YOUR DIRECTORY HERE\T(number of your test)_quiver';
+        **dir = 'INSERT YOUR DIRECTORY HERE\T(number of your test)_quiver'**;
         figure,
         quiver(XX,YY,velX2_mean,velY2_mean,1.1);    
         set(gca,'Ydir','reverse')
