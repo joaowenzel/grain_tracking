@@ -78,8 +78,15 @@ for m = n_T1:nf_T1
 end
 ```
 
-a <br />
-and adjust the "threshold" and "arealim" variables to obtain good tracers positions identification:<br />
+a
+b
+c
+
+a__
+b__
+c
+
+and adjust the "threshold" and "arealim" variables to obtain good tracers positions identification:
 
 
 
