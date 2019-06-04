@@ -18,5 +18,9 @@ White_RGB             |  Black_RGB             |  White_GrayScale            | W
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](Figures/White_RGB.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)  |  ![](Figures/Raw_White_RGB.jpg)
 
+White_RGB             |  Black_RGB             |  White_GrayScale            | White_GrayScale
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](Figures/White_RGB.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)  |  ![](Figures/Raw_White_RGB2.png)
 
-![](Figures/Raw_White_RGB2.png)
+
+
