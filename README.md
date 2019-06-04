@@ -87,6 +87,7 @@ and adjust the "threshold" and "arealim" variables to obtain good tracers positi
 :-------------------------:|:-------------------------:
 ![](Figures/Raw_White_RGB2.jpg)  |  ![](Figures/Processed_White_RGB2.jpg)  
   
+  ## Step 3 
   
 
 
