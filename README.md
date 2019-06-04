@@ -82,8 +82,8 @@ a
 b
 c
 
-a__
-b__
+a <br />
+b <br />
 c
 
 and adjust the "threshold" and "arealim" variables to obtain good tracers positions identification:
