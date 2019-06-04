@@ -89,6 +89,10 @@ and adjust the "threshold" and "arealim" variables to obtain good tracers positi
   
   ## Step 3 
   
+Go to "FiguresAndPlots" function 
 
+```
+dir = 'INSERT YOUR DIRECTORY HERE\T(number of your test)_contourf';
+```
 
 
