@@ -12,6 +12,15 @@
 
 
 
+  White_RGB_Raw             |  Black_RGB_Processed            
+:-------------------------:|:-------------------------:
+![](Figures/White_RGB_Raw.jpg)  |  ![](White_RGB_Processed.jpg)  
+
+
+
+
+
+
 
 
 
