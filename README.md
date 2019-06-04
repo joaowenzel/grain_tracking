@@ -12,7 +12,7 @@
 
 
 # How do I use it?
-# Step 1 
+## Step 1 
 
 
 ```
@@ -69,4 +69,6 @@ end
 
 
 
+# How do I use it?
 
+## Step 1 
