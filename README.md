@@ -81,6 +81,7 @@ end
 
 and adjust the "threshold" and "arealim" variables to obtain good tracers positions identification:  
   <br />
+  
  White_RGB_Raw             |  White_RGB_Processed            
 :-------------------------:|:-------------------------:
 ![](Figures/White_RGB_Raw.jpg)  |  ![](Figures/White_RGB_Processed.jpg)  
