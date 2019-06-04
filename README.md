@@ -78,23 +78,15 @@ for m = n_T1:nf_T1
 end
 ```
 
-a
-b
-c
-
-a <br />
-b <br />
-c
 
 and adjust the "threshold" and "arealim" variables to obtain good tracers positions identification:
 
 
-(U+000A)
-
-
-
-  White_RGB_Raw             |  White_RGB_Processed            
-:-------------------------:|:-------------------------:
-![](Figures/White_RGB_Raw.jpg)  |  ![](Figures/White_RGB_Processed.jpg)  
+ 
+ 
+ 
+   White_RGB_Raw             |  White_RGB_Processed            
+  :-------------------------:|:-------------------------:
+  ![](Figures/White_RGB_Raw.jpg)  |  ![](Figures/White_RGB_Processed.jpg)  
 
 
