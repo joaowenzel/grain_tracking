@@ -12,11 +12,6 @@
 
 
 
-  White_RGB_Raw             |  White_RGB_Processed            
-:-------------------------:|:-------------------------:
-![](Figures/White_RGB_Raw.jpg)  |  ![](Figures/White_RGB_Processed.jpg)  
-
-
 ```
 frequency_T1 = 300;         % Frequency of image acquisition
 n_T1 = 1;                   % Initial image
@@ -65,7 +60,9 @@ for m = n_T1:nf_T1
 end
 ```
 
-
+  White_RGB_Raw             |  White_RGB_Processed            
+:-------------------------:|:-------------------------:
+![](Figures/White_RGB_Raw.jpg)  |  ![](Figures/White_RGB_Processed.jpg)  
 
 
 
