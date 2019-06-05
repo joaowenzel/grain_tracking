@@ -16,7 +16,7 @@
 
 Set the variables in the main function (White_RGB = allposXY, Black_RGB = B_allposXY and White_GrayScale = N_allposXY):
 
-
+ 
 ```
 %***********************************************************************************************
 frequency_T1 = 300;         % Frequency of image acquisition
