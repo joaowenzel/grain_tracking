@@ -135,6 +135,5 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
 <img src="Figures/T56_quiver.jpg" width="40%">
 </p>
   
-
-
+<img src="Figures/TN14_hist.jpg">
 
