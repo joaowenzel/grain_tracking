@@ -132,7 +132,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
 # Results
 
 <p align="center">
-<img src="Figures/T56_quiver.jpg" width "40%">
+<img src="Figures/T56_quiver.jpg" width="40%">
 </p>
 
 
