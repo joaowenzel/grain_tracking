@@ -114,3 +114,5 @@ Note: Do this for the four kinds of graphs.
 Run the main function and analyze the results.
 
 Eulerian approach: If the graphs are presenting some inconsistency is possible to increase the action of the `Filter` function adjusting the variables: `median2cut` and `MinEl2VrPercent`.
+
+Lagrangian Approach: You can adjust the 'MinTS' variable to define the minimum valid tracking size.
