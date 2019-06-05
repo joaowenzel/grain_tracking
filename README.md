@@ -10,7 +10,7 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](Figures/White_RGB.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)
 
-<p align="center">
+<p align="left">
   <img src="Figures/White_RGB.jpg" width="10%">
 </p>
 
