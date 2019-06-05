@@ -14,7 +14,7 @@
 # How do I use it?
 ## Step 1 
 
-Set the variables in the main function (`White_RGB` = allposXY, `Black_RGB` = B_allposXY and `White_GrayScale` = N_allposXY):
+Set the variables in the main function (`White_RGB` = `AllposXY`, `Black_RGB` = `B_AllposXY` and `White_GrayScale` = `N_AllposXY`):
 
  
 ```
