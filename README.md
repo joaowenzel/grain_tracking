@@ -118,3 +118,5 @@ Eulerian approach: If the graphs are presenting some inconsistency is possible t
 Lagrangian Approach: You can adjust the `MinTS` variable to define the minimum valid tracking size. It is also possible to adjust the `deltaY` and `speedY` variables to determine the moment when the particle starts and ends the motion.
 
 The variable `MD2SF` influences both approaches. It is the maximum distance that the code uses to search for the same grain in the next image (one of the filters, see more inside the `Pair` function). It is recommended to test values around 50% of the distance traveled by the flow between two images.
+
+# Results
