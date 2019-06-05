@@ -82,6 +82,7 @@ and adjust the "threshold" and "arealim" variables to obtain good tracers positi
 <br />
 
 <img align="center":>
+
  White_RGB_Raw             |  White_RGB_Processed            
 :-------------------------:|:-------------------------:
 ![](Figures/Raw_White_RGB2.jpg)  |  ![](Figures/Processed_White_RGB2.jpg)  
