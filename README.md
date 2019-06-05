@@ -4,7 +4,7 @@
   
   
 <p align="center">
-<img src="Figures/Gif2Paper.gif" width="40%">
+<img src="Figures/Gif2Paper.gif" width="25%">
 </p>
 
   
