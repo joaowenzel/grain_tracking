@@ -112,3 +112,5 @@ Note: Do this for the four kinds of graphs.
 ## Step 4
 
 Run the main function and analyze the results.
+
+Eulerian approach: If the graphs are presenting some inconsistency is possible to increase the action of the "Filter" adjusting the variables: "median2cut" and "MinEl2VrPercent".
