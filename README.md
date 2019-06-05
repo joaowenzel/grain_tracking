@@ -108,3 +108,7 @@ Go to "Figures And Plots" function, choose your directory (Dir), and the file fo
 ```
 
 Note: Do this for the four kinds of graphs.
+
+## Step 4
+
+Run the main function and analyze the results.
