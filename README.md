@@ -87,9 +87,13 @@ and adjust the "threshold" and "arealim" variables to obtain good tracers positi
 ![](Figures/Raw_White_RGB2.jpg)  |  ![](Figures/Processed_White_RGB2.jpg)  
 
 <p align="center">
- White_RGB_Raw | White_RGB_Processed            
-:-:|:-:
+  
+ White_RGB_Raw | White_RGB_Processed    
+  
+                               :-:|:-:
+                               
 <img src="Figures/Raw_White_RGB2.jpg">  |  <img src="Figures/Processed_White_RGB2.jpg"> 
+
  </p>
  
   ## Step 3 
