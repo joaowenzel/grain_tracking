@@ -107,4 +107,4 @@ Go to "Figures And Plots" function, choose your directory (Dir), and the file fo
         saveas(gcf,strcat(dir), 'jpeg');
 ```
 
-
+Note: Do this for the four kinds of graphs.
