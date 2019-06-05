@@ -4,7 +4,7 @@
   
   Note: the three folders in the repository are versions of the same code. The names "Black" and "White" refers to the color of the dune (black: 98% of grains are black and 2% are white (tracers), white: the opposite), and "RGB" and "GrayScale" refers to the file format.
 
-
+<img align="center">
 
   White_RGB             |  Black_RGB             |  White_GrayScale
 :-------------------------:|:-------------------------:|:-------------------------:
