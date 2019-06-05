@@ -11,7 +11,7 @@
 ![](Figures/White_RGB.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)
 
 <p align="center">
-  <img src="Figures/White_RGB.jpg" height="120%">
+  <img src="Figures/White_RGB.jpg">
 </p>
 
 
