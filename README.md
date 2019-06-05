@@ -89,7 +89,7 @@ and adjust the "threshold" and "arealim" variables to obtain good tracers positi
   
   ## Step 3 
   
-Go to "FiguresAndPlots" function 
+Go to "Figures And Plots" function, choose your directory (Dir), and the file format (saveas .... 'File Format') .  
 
 ```
         dir = 'INSERT YOUR DIRECTORY HERE\T(number of your test)_quiver';
