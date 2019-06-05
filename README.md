@@ -84,9 +84,13 @@ and adjust the "threshold" and "arealim" variables to obtain good tracers positi
 
  White_RGB_Raw             |  White_RGB_Processed            
 :-------------------------:|:-------------------------:
-![](Figures/Raw_White_RGB2.jpg width "40%")  |  ![](Figures/Processed_White_RGB2.jpg width "40%")  
+![](Figures/Raw_White_RGB2.jpg)  |  ![](Figures/Processed_White_RGB2.jpg)  
 
- 
+ White_RGB_Raw             |  White_RGB_Processed            
+:-------------------------:|:-------------------------:
+<img src="Figures/Raw_White_RGB2.jpg" width="40%">  |  <img src="Figures/Processed_White_RGB2.jpg>  
+
+
   ## Step 3 
   
 Go to `FiguresAndPlots` function, choose your directory `dir`, and the file format `saveas ... 'File Format'` .  
