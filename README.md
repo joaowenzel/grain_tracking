@@ -44,7 +44,7 @@ Note: For the mesh variable, there are some values in the code ready to be used:
 - B_AllposXY: 25 (best in my case), 50 and 100.
 - N_AllposXY: 25, 35.5823 (best in my case), 50 and 100.
 
-If you need another mesh size, you need to change the "spiral" function. If you have problems with this, let me know so I can help you.
+If another mesh size is required, you must implement it in the "spiral" function. If you have problems with this, let me know so I can help you.
 
 ## Step 2
 
