@@ -125,7 +125,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
 </p>
 
 <p align="center">
-<img src="Figures/Gif2Paper.gif" width="100%">
+<img src="Figures/Gif2Paper.gif" width="40%">
 </p>
 
 
