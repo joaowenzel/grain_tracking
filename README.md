@@ -10,6 +10,10 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](Figures/White_RGB.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)
 
+<p align="center">
+  <img src="Figures/White_RGB.jpg" width="75%">
+</p>
+
 
 # How do I use it?
 ## Step 1 
