@@ -9,6 +9,10 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](Figures/White_RGB.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)
 
+  White_RGB             |  Black_RGB             |  White_GrayScale             |  Gif
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](Figures/White_RGB.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)  |  ![](Figures/Gif2Paper.gif)
+
 
 # How do I use it?
 ## Step 1 
