@@ -134,7 +134,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
   
    White_RGB_Raw             |  White_RGB_Processed            
 :-------------------------:|:-------------------------: 
-![](Figures/TN14_hist.jpg)  |  ![](Figures/DuneAngles.jpg) 
+![](Figures/TN14_hist.jpg)  |   
   
 
    White_RGB_Raw             |  White_RGB_Processed            
