@@ -56,9 +56,9 @@ P2MM = 0.0992906802568982;  % Pixel to milimeter conversion factor
 
 Note: For the mesh variable, there are some values in the code ready to be used:
 
-- AllposXY: 25 (best in my case), 50 and 100.
-- B_AllposXY: 25 (best in my case), 50 and 100.
-- N_AllposXY: 25, 35.5823 (best in my case), 50 and 100.
+- AllposXY: 25, 50 and 100.
+- B_AllposXY: 25, 50 and 100.
+- N_AllposXY: 25, 35.5823, 50 and 100.
 
 If another mesh size is required, you must implement it in the "spiral" function. If you have problems with this, let me know so I can help you.
 
