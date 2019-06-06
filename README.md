@@ -196,8 +196,6 @@ In this approach, each grain is followed while still visible in the image. The c
    
  Mean dist.(x) | Mean dist.(y)|Std. of dist.(x) |Std. of dist.(y) |Mean vel.(x) |Mean vel.(y) |Std. of vel.(x) | Std. of vel.(y)
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
-10|15 | 10|10 |10|10 |10 |10    
+0,07|17,58| 4,22|15,29 |0,44|71,39 |18,91 |37,30 
 
-Mean transverse displacement (x) | Mean longitudinal displacement (y)|Std. of transverse displacement (x) |Std. of longitudinal displacement (y) |Mean transverse velocity (x) |Mean longitudinal velocity (y) |Std. of transverse velocity (x) | Std. of longitudinal velocity (y)
-:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
-10|15 | 10|10 |10|10 |10 |10    
+							
