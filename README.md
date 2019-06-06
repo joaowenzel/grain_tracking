@@ -154,7 +154,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
   
  <br />
   
-  Quiver            |  Contourf            
+  Radial mesh            |  Histogram           
 :-------------------------:|:-------------------------: 
 ![](Figures/DuneRadius.jpg)  |   ![](Figures/TN14_hist.jpg)
 
@@ -162,7 +162,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
 
 <br />
 
-  Histogram            |  Polar histogram           
+  Angular mesh           |  Polar histogram           
 :-------------------------:|:-------------------------: 
 ![](Figures/DuneAngles.jpg)  |   ![](Figures/TN17_polarHist.jpg)
 
