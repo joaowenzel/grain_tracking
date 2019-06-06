@@ -198,4 +198,9 @@ In this approach, each grain is followed while still visible in the image. The c
 0,07|17,58| 4,22|15,29 |0,44|71,39 |18,91 |37,30 
 
 Note: Distances are given in "mm" and velocities in "mm/s".
-							
+		
+## Charts	
+
+  Angular mesh           |  Polar histogram           
+:-------------------------:|:-------------------------: 
+![](Figures/PosAndTime2.PNG)  |   ![](Figures/VelandTime2.PNG)
