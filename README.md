@@ -203,4 +203,4 @@ Note: Distances are given in "mm" and velocities in "mm/s".
 
   Angular mesh           |  Polar histogram           
 :-------------------------:|:-------------------------: 
-![](Figures/PosAndTime2.PNG)  |   ![](Figures/VelandTime2.PNG)
+![](Figures/PxT_old.jpg)  |   ![](Figures/VELxT_old.jpg)
