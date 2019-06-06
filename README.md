@@ -154,8 +154,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
 
 <br />
 
-These two charts show the main direction of the grains displacement and the magnitude of its velocity in each region of the dune. In both cases, the dune centroid is plotted in the central point of the chart.
-
+These two charts show the main direction of the grains displacement and the magnitude of its velocity in each region of the dune. In both cases, the dune centroid is plotted in the central point of the chart, and the abscissa and ordinate correspond, respectively, to the transverse (x) and longitudinal (y) coordinates.
 
  ### Radial mesh & chart
   
