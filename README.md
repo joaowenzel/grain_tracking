@@ -201,6 +201,6 @@ Note: Distances are given in "mm" and velocities in "mm/s".
 		
 ## Charts	
 
-  Angular mesh           |  Polar histogram           
+  Position x time          |  Velocity x time           
 :-------------------------:|:-------------------------: 
 ![](Figures/PxT_old.jpg)  |   ![](Figures/VELxT_old.jpg)
