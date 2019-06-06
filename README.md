@@ -130,11 +130,13 @@ Lagrangian Approach: You can adjust the `MinTS` variable to define the minimum v
 The variable `MD2SF` influences both approaches. It is the maximum distance that the code uses to search for the same grain in the next image (one of the filters, see more inside the `Pair` function). It is recommended to test values around 50% of the distance traveled by the flow between two images.
 
 # Results
+
+## Eulerian approch
   
   In order to show the results obtained with the Eulerian approach, the code generates 3 different mesh stiles, allowing to generate 4 types of graphics, providing a wide analysis of the velocity of the grains over a barchan dune.
   
-  ## Mesh
-  ### Cartesian mesh
+  ### Mesh
+  #### Cartesian mesh
   
   <p align="center">
   <img src="Figures/DuneMesh.jpg">
@@ -145,7 +147,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
  Note: All the results shown in the following charts are spatial and temporal mean velocities of the grains (represented by < v >), inside each mesh element and through all images, respectively. 
  
  
-  #### Charts
+  ##### Charts
    
  <br />
  
@@ -157,7 +159,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
 
 These two charts show the main direction of the grains displacement and the magnitude of its velocity in each region of the dune. In both cases, the dune centroid is plotted in the central point of the chart, and the abscissa and ordinate correspond, respectively, to the transverse (x) and longitudinal (y) coordinates.
 
- ### Radial mesh & chart
+ #### Radial mesh & chart
   
  <br />
   
@@ -169,7 +171,7 @@ These two charts show the main direction of the grains displacement and the magn
 
 This chart presents the mean velocity as functions of the radial position r (with origin at the dune centroid).  In this figure, the abscissa corresponds to the radial position, the ordinate to the magnitude of the velocity vector, and the width of bars to the interval between the considered radial positions.
 
-### Angular mesh & chart
+#### Angular mesh & chart
 
 <br />
 
@@ -183,6 +185,9 @@ This chart presents the mean velocity as a function of the angle with respect to
 direction (the water flow direction is 270◦) and the height of
 bars to the magnitude of velocity, which can be measured
 using the radial scale along the 80◦ line.
+
+
+## Eulerian approch
 
 
  
