@@ -191,8 +191,6 @@ using the radial scale along the 80◦ line.
 
 In this approach, each grain is followed while still visible in the image. The code detects the time when the particle is in movement, disregarding the time in which it remains stopped. As a result, it returns an array containing the mean of the transverse (x) and longitudinal (y) distances and velocities of all valid trackings. Besides that, it gives the standard deviations of distances and velocities for both axes.
  
-<br />
- 
  ### Example of lagrangian results
  
  Mean dist.(x) | Mean dist.(y)|Std. of dist.(x) |Std. of dist.(y) |Mean vel.(x) |Mean vel.(y) |Std. of vel.(x) | Std. of vel.(y)
