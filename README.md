@@ -165,6 +165,10 @@ These two charts show the main direction of the grains displacement and the magn
 :-------------------------:|:-------------------------: 
 ![](Figures/DuneRadius.jpg)  |   ![](Figures/TN14_hist.jpg)
 
+ <br />
+
+This chart shows how grain velocities change with distance from the dune centroid. 
+
 ### Angular mesh & chart
 
 <br />
