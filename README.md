@@ -134,7 +134,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
   In order to show the results obtained with the Eulerian approach, the code generates 3 different mesh stiles, allowing to generate 4 types of graphics, providing a wide analysis of the velocity of the grains over a barchan dune.
   
   ## Mesh
-  ### Square mesh
+  ### Cartesian mesh
   
   <p align="center">
   <img src="Figures/DuneMesh.jpg">
