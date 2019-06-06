@@ -107,6 +107,8 @@ and adjust the "threshold" and "arealim" variables to obtain good tracers positi
   
 Go to `FiguresAndPlots` function, choose your directory `dir`, and the file format `saveas ... 'File Format'` .  
 
+<br />
+
 ```
         dir = 'INSERT YOUR DIRECTORY HERE\T(number of your test)_quiver';
         figure,
@@ -149,6 +151,8 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
   <p align="center">
   <img src="Figures/DuneMesh.jpg">
   </p>
+  
+  <br />
   
   You can adjust the mesh size by changing the variable `mesh` in the main function.
  
