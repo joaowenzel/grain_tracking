@@ -24,6 +24,10 @@
 # How do I use it?
 ## Step 1 
 
+First, you have to identify the best version of the code for you. Then you copy and paste all the functions in the same folder that your images are stored.
+
+## Step 2
+
 Set the variables in the main function `White_RGB` = `AllposXY`, `Black_RGB` = `B_AllposXY` and `White_GrayScale` = `N_AllposXY`:
 
  
@@ -56,7 +60,7 @@ Note: For the mesh variable, there are some values in the code ready to be used:
 
 If another mesh size is required, you must implement it in the "spiral" function. If you have problems with this, let me know so I can help you.
 
-## Step 2
+## Step 3
 
 Use the following "for" of the main function:
 
@@ -97,7 +101,7 @@ and adjust the "threshold" and "arealim" variables to obtain good tracers positi
 :-------------------------:|:-------------------------: 
 ![](Figures/Raw_White_RGB2.jpg)  |  ![](Figures/Processed_White_RGB2.jpg)  
 
-  ## Step 3 
+  ## Step 4 
   
 Go to `FiguresAndPlots` function, choose your directory `dir`, and the file format `saveas ... 'File Format'` .  
 
@@ -119,7 +123,7 @@ Go to `FiguresAndPlots` function, choose your directory `dir`, and the file form
 
 Note: Do this for the four kinds of graphs.
 
-## Step 4
+## Step 5
 
 Run the main function and analyze the results.
 
