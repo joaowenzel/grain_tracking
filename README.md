@@ -1,5 +1,5 @@
 # About:
- $\left \langle \bar{v} \right \rangle$
+
   This code was developed during my master degree at Unicamp University in Brazil, under the supervision of my advisor: Erick de Moraes Franklin. The aim of this work was to know the velocity of grains over a barchan dune, applying a Eulerian and Lagrangian approach. To do that, experiments were made and recorded, generating around 3000 pictures for each test. This code was developed to process these images, and as a result, it returns 4 kinds of charts and a table for the Eulerian and Lagrangian approach, respectively.
 
 <br />
@@ -143,7 +143,9 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
   You can adjust the mesh size by changing the variable `mesh` in the main function.
  
  Note: All the results shown in the following charts are spatial and temporal mean velocities of the grains (represented by \bar{v}), inside each mesh element and through all images, respectively. 
-  \begin{equation} \bar{v} \end
+ 
+ ![equation]\begin{equation} \bar{v} \end
+ 
   #### Charts
    
  <br />
