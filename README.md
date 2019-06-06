@@ -131,7 +131,13 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
 
 # Results
   
-  In order to show the results obtained with the Eulerian approach, the code splits the image in 3 different ways, allowing to generate 4 types of graphs, which provides a wide analysis of the velocity of the grains over a barchan dune.
+  In order to show the results obtained with the Eulerian approach, the code splits the image in 3 different ways, allowing to generate 4 types of graphs, providing a wide analysis of the velocity of the grains over a barchan dune.
+  
+  ## First way: mesh
+  
+  <p align="center">
+  <img src="Figures/DuneMesh.jpg">
+  </p>
   
    White_RGB_Raw             |  White_RGB_Processed            
 :-------------------------:|:-------------------------: 
