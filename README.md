@@ -194,6 +194,6 @@ In this approach, each grain is followed while still visible in the image. The c
    mean of x-dist.-mean of y-dist.-std. of x-dist.-std. of y-dist.-mean of x-vel.-mean of y-vel.-std. of x-vel.-std. of y-vel.
    
    
- Mean transversal displacement (x) | Mean longitudinal displacement (x)| | | | | |
+ Mean dist.(x) | Mean dist.(y)|Std. of dist.(x) |Std. of dist.(y) |Mean vel.(x) |Mean vel.(y) |Std. vel.(x) | Std. vel.(y)
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
-10|15 | | | | | |    
+10|15 | 10|10 |10|10 |10 |10    
