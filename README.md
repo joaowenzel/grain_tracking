@@ -152,7 +152,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
 
 <br />
 
-These two graphics show the main direction of the grains displacement and its velocity in each region of the dune.
+These two graphics show the main direction of the grains displacement and the intensity of its velocity in each region of the dune.
 
 
  ### Radial mesh & Graphic
