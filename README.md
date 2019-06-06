@@ -189,6 +189,6 @@ using the radial scale along the 80◦ line.
 
 ## Eulerian approch
 
-
+In this approach, each grain is followed while still visible in the image. The code detects the time when the particle is in movement, disregarding the time in which it remains stopped. As a result, it returns a table containing the mean of x and y distances and velocities of all valid trackings. Besides that, it gives the standard deviations of distances and velocities for both axes.
  
   
