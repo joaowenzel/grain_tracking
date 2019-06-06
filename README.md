@@ -150,6 +150,11 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
 :-------------------------:|:-------------------------: 
 ![](Figures/TN15_quiver.jpg)  |   ![](Figures/TN15_contourf.jpg)
 
+<br />
+
+These two graphics show the main direction of the grains displacement and its velocity in each region of the dune.
+
+
  ### Radial mesh & Graphic
   
  <br />
