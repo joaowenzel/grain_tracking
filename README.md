@@ -177,6 +177,13 @@ This chart presents the mean velocity as functions of the radial position r (wit
 :-------------------------:|:-------------------------: 
 ![](Figures/DuneAngles.jpg)  |   ![](Figures/TN17_polarHist.jpg)
 
+<br />
+
+This chart presents the mean velocity as a function of the angle with respect to the transverse direction. In this figure, the numbers along the perimeter correspond to angles with respect to the transverse
+direction (the water flow direction is 270◦) and the height of
+bars to the magnitude of velocity, which can be measured
+using the radial scale along the 80◦ line.
+
 
  
   
