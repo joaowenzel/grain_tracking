@@ -20,7 +20,7 @@
   :-------------------------:|:-------------------------:|:-------------------------:
   ![](Figures/White_RGB.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)
 
-<br />
+
 
 # How do I use it?
 ## Step 1 
@@ -31,7 +31,7 @@ First, you have to identify the best version of the code for you. Then you copy 
 
 Set the variables in the main function `White_RGB` = `AllposXY`, `Black_RGB` = `B_AllposXY` and `White_GrayScale` = `N_AllposXY`:
 
-<br />
+
  
 ```
 %***********************************************************************************************
@@ -66,7 +66,6 @@ If another mesh size is required, you must implement it in the "spiral" function
 
 Use the following "for" of the main function:
 
-<br />
 
 ```
 for m = n_T1:nf_T1
@@ -109,7 +108,7 @@ and adjust the "threshold" and "arealim" variables to obtain good tracers positi
   
 Go to `FiguresAndPlots` function, choose your directory `dir`, and the file format `saveas ... 'File Format'` .  
 
-<br />
+
 
 ```
         dir = 'INSERT YOUR DIRECTORY HERE\T(number of your test)_quiver';
@@ -148,7 +147,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
   ### Mesh
   #### Cartesian mesh
   
-  <br />
+  
   
   <p align="center">
   <img src="Figures/DuneMesh.jpg">
