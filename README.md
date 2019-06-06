@@ -30,6 +30,7 @@ First, you have to identify the best version of the code for you. Then you copy 
 
 Set the variables in the main function `White_RGB` = `AllposXY`, `Black_RGB` = `B_AllposXY` and `White_GrayScale` = `N_AllposXY`:
 
+<br />
  
 ```
 %***********************************************************************************************
@@ -64,6 +65,7 @@ If another mesh size is required, you must implement it in the "spiral" function
 
 Use the following "for" of the main function:
 
+<br />
 
 ```
 for m = n_T1:nf_T1
@@ -142,6 +144,8 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
   ### Mesh
   #### Cartesian mesh
   
+  <br />
+  
   <p align="center">
   <img src="Figures/DuneMesh.jpg">
   </p>
@@ -204,6 +208,8 @@ In this approach, each grain is followed while still visible in the image. The c
 Note: Distances are given in "mm" and velocities in "mm/s".
 		
 ## Charts	
+
+<br />
 
   Position x time          |  Velocity x time           
 :-------------------------:|:-------------------------: 
