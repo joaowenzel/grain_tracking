@@ -166,7 +166,7 @@ These two charts show the main direction of the grains displacement and the magn
 
  <br />
 
-This chart shows how grain velocities change with distance from the dune centroid. 
+This chart presents the mean velocity as functions of the radial position r (with origin at the dune centroid).  In this figure, the abscissa corresponds to the radial position, the ordinate to the magnitude of the velocity vector, and the width of bars to the interval between the considered radial positions.
 
 ### Angular mesh & chart
 
