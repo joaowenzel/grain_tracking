@@ -154,7 +154,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
 :-------------------------:|:-------------------------: 
 ![](Figures/DuneRadius.jpg)  |   ![](Figures/TN15_contourf.jpg)
 
-### Radial mesh - #### Graphic
+### Angular mesh - ####Graphic
 
 
  
