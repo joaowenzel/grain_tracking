@@ -162,7 +162,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
  
   ##### Charts
    
- <br />
+
  
    Quiver            |  Contourf            
 :-------------------------:|:-------------------------: 
@@ -174,7 +174,7 @@ These two charts show the main direction of the grains displacement and the magn
 
  #### Radial mesh & chart
   
- <br />
+
   
   Radial mesh            |  Histogram           
 :-------------------------:|:-------------------------: 
@@ -186,7 +186,7 @@ This chart presents the mean velocity as functions of the radial position r (wit
 
 #### Angular mesh & chart
 
-<br />
+
 
   Angular mesh           |  Polar histogram           
 :-------------------------:|:-------------------------: 
@@ -214,7 +214,6 @@ Note: Distances are given in "mm" and velocities in "mm/s".
 		
 ## Charts	
 
-<br />
 
   Position x time          |  Velocity x time           
 :-------------------------:|:-------------------------: 
