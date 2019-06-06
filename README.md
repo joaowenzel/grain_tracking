@@ -225,8 +225,8 @@ These charts show, respectively, the longitudinal and transverse positions, y an
 
 Note: The code does not automatically generate these charts, they are here just to exemplify a typical grain displacement over a barchan dune. 
 
-# Developed By
-
+Developed By
+-------
 João Luiz Wenzel - <jl_wenzel@hotmail.com>
 
 Contributions
