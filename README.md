@@ -141,7 +141,8 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
   </p>
   
   You can adjust the mesh size by changing the variable `mesh` in the main function.
-  Note: All the results shown in the following graphics are spatial and temporal mean velocities of the grains (inside each mesh element and through all images). 
+ 
+ Note: All the results shown in the following graphics are spatial and temporal mean velocities of the grains (inside each mesh element and through all images). 
   
   #### Graphics
      
