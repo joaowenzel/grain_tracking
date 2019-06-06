@@ -143,7 +143,9 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
   You can adjust the mesh size by changing the variable `mesh` in the main function.
   
   #### Graphics
-  
+     
+ <br />
+ 
    Quiver            |  Contourf            
 :-------------------------:|:-------------------------: 
 ![](Figures/TN15_quiver.jpg)  |   ![](Figures/TN15_contourf.jpg)
