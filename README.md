@@ -233,3 +233,8 @@ Contributions
 -------
 
 Any contributions are welcome!
+
+Acknowledgements:
+-------
+
+The author is grateful to Professor Erick de Moraes Franklin for all the support received during the development of this project.
