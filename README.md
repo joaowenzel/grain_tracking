@@ -9,6 +9,7 @@
 <img src="Figures/Gif2Paper.gif" width="25%">
 </p>
 
+<br />
   
   Note: the three folders in the repository are versions of the same code. The names "Black" and "White" refers to the color of the dune (black: 98% of grains are black and 2% are white (tracers), white: the opposite), and "RGB" and "GrayScale" refers to the file format
                                                                                                             
@@ -19,7 +20,7 @@
   :-------------------------:|:-------------------------:|:-------------------------:
   ![](Figures/White_RGB.jpg)  |  ![](Figures/Black_RGB.jpg)  |  ![](Figures/White_GrayScale.jpg)
 
-
+<br />
 
 # How do I use it?
 ## Step 1 
