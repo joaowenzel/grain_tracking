@@ -142,9 +142,9 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
   
   You can adjust the mesh size by changing the variable `mesh` in the main function.
  
- Note: All the results shown in the following graphics are spatial and temporal mean velocities of the grains (inside each mesh element and through all images). 
+ Note: All the results shown in the following charts are spatial and temporal mean velocities of the grains, inside each mesh element and through all images, respectively. 
   
-  #### Graphics
+  #### Charts
      
  <br />
  
@@ -154,10 +154,10 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
 
 <br />
 
-These two graphics show the main direction of the grains displacement and the magnitude of its velocity in each region of the dune. In both cases, the dune centroid is plotted in the central point of the graphic.
+These two charts show the main direction of the grains displacement and the magnitude of its velocity in each region of the dune. In both cases, the dune centroid is plotted in the central point of the chart.
 
 
- ### Radial mesh & Graphic
+ ### Radial mesh & chart
   
  <br />
   
@@ -165,7 +165,7 @@ These two graphics show the main direction of the grains displacement and the ma
 :-------------------------:|:-------------------------: 
 ![](Figures/DuneRadius.jpg)  |   ![](Figures/TN14_hist.jpg)
 
-### Angular mesh & Graphic
+### Angular mesh & chart
 
 <br />
 
