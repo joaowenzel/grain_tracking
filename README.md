@@ -192,6 +192,8 @@ using the radial scale along the 80◦ line.
 In this approach, each grain is followed while still visible in the image. The code detects the time when the particle is in movement, disregarding the time in which it remains stopped. As a result, it returns a table containing the mean of the transverse (x) and longitudinal (y) distances and velocities of all valid trackings. Besides that, it gives the standard deviations of distances and velocities for both axes.
  
    mean of x-dist.-mean of y-dist.-std. of x-dist.-std. of y-dist.-mean of x-vel.-mean of y-vel.-std. of x-vel.-std. of y-vel.
- Mean transversal displacement (x) | | | | | | |
+   
+   
+ Mean transversal displacement (x) | Mean longitudinal displacement (x)| | | | | |
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
-10| | | | | | |    
+10|15 | | | | | |    
