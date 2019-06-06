@@ -204,3 +204,9 @@ Note: Distances are given in "mm" and velocities in "mm/s".
   Position x time          |  Velocity x time           
 :-------------------------:|:-------------------------: 
 ![](Figures/PxT_old.jpg)  |   ![](Figures/VELxT_old.jpg)
+
+<br />
+
+These charts show, respectively, the longitudinal and transverse positions, y and x, and the longitudinal and transverse velocities, vy and vx, of a tracer as functions of time.  The red continuous and blue dashed curves correspond to the y and x components, respectively.
+
+Note: The code does not automatically generate these charts, they are here just to exemplify a typical grain displacement over a barchan dune. 
