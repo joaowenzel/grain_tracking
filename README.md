@@ -148,13 +148,17 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
 :-------------------------:|:-------------------------: 
 ![](Figures/TN15_quiver.jpg)  |   ![](Figures/TN15_contourf.jpg)
 
- ### Radial mesh - #### Graphic
+ ### Radial mesh & Graphic
   
   Quiver            |  Contourf            
 :-------------------------:|:-------------------------: 
 ![](Figures/DuneRadius.jpg)  |   ![](Figures/TN15_contourf.jpg)
 
-### Angular mesh - ####Graphic
+### Angular mesh & ####Graphic
+
+  Histogram            |  Polar histogram           
+:-------------------------:|:-------------------------: 
+![](Figures/TN14_hist.jpg)  |   ![](Figures/TN17_polarHist.jpg)
 
 
  
