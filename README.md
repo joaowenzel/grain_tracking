@@ -103,6 +103,8 @@ and adjust the "threshold" and "arealim" variables to obtain good tracers positi
 :-------------------------:|:-------------------------: 
 ![](Figures/Raw_White_RGB2.jpg)  |  ![](Figures/Processed_White_RGB2.jpg)  
 
+<br />
+
   ## Step 4 
   
 Go to `FiguresAndPlots` function, choose your directory `dir`, and the file format `saveas ... 'File Format'` .  
