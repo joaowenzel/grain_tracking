@@ -60,7 +60,7 @@ Note: For the mesh variable, there are some values in the code ready to be used:
 - B_AllposXY: 25, 50 and 100.
 - N_AllposXY: 25, 35.5823, 50 and 100.
 
-If another mesh size is required, you must implement it in the "spiral" function. If you have problems with this, let me know so I can help you.
+If another mesh size is required, you must implement it in the function `spiral`. If you have problems with this, let me know so I can help you.
 
 ## Step 3
 
@@ -95,7 +95,7 @@ end
 ```
 
 
-and adjust the "threshold" and "arealim" variables to obtain good tracers positions identification:  
+and set the variables `threshold` and `arealim` to obtain good tracers positions identification:  
 <br />
 
 
@@ -126,17 +126,17 @@ Go to `FiguresAndPlots` function, choose your directory `dir`, and the file form
         saveas(gcf,strcat(dir), 'jpeg');
 ```
 
-Note: Do this for the four kinds of graphs.
+Note: Do this for the four charts.
 
 ## Step 5
 
 Run the main function and analyze the results.
 
-Eulerian approach: If the graphs are presenting some inconsistency is possible to increase the action of the `Filter` function adjusting the variables: `median2cut` and `MinEl2VrPercent`. The variable `changeXYpercent` gives the number (in %) of mesh elements that were modified by the `Filter` function.
+Eulerian approach: If the graphs are presenting some inconsistency is possible to increase the action of the function `Filter` setting the variables: `median2cut` and `MinEl2VrPercent`. The variable `changeXYpercent` gives the number (in %) of mesh elements that were modified by the function `Filter`.
 
-Lagrangian Approach: You can adjust the `MinTS` variable to define the minimum valid tracking size. It is also possible to adjust the `deltaY` and `speedY` variables to determine the moment when the particle starts and ends the motion.
+Lagrangian Approach: You can set the variable `MinTS` to define the minimum valid tracking size. It is also possible to set the variables `deltaY` and `speedY` to determine the moment when the particle starts and ends the motion.
 
-The variable `MD2SF` influences both approaches. It is the maximum distance that the code uses to search for the same grain in the next image (one of the filters, see more inside the `Pair` function). It is recommended to test values around 50% of the distance traveled by the flow between two images.
+The variable `MD2SF` influences both approaches. It is the maximum distance that the code uses to search for the same grain in the next image (one of the filters, see more inside the function `Pair`). It is recommended to test values around 50% of the distance traveled by the flow between two images.
 
 # Results
 
@@ -155,7 +155,7 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
   
   <br />
   
-  You can adjust the mesh size by changing the variable `mesh` in the main function.
+  You can set the mesh size by changing the variable `mesh` in the main function.
  
  Note: All the results shown in the following charts are spatial and temporal mean velocities of the grains  (represented by the symbol < v >), inside each mesh element and through all images, respectively. 
  
@@ -184,7 +184,7 @@ These two charts show the main direction of the grains displacement and the magn
 
 This chart presents the mean velocity as functions of the radial position r (with origin at the dune centroid).  In this figure, the abscissa corresponds to the radial position, the ordinate to the magnitude of the velocity vector, and the width of bars to the interval between the considered radial positions.
 
-Note: You can change the number of radial mesh elements by setting the `intervalDist` variable in the `HistAndPolarHist` function.
+Note: You can change the number of radial mesh elements by setting the variable `intervalDist` in the function `HistAndPolarHist`.
 
 #### Angular mesh & chart
 
@@ -201,7 +201,7 @@ direction (the water flow direction is 270◦) and the height of
 bars to the magnitude of velocity, which can be measured
 using the radial scale along the 80◦ line.
 
-Note: You can change the number of angular mesh elements by setting the `intervalAng` variable in the `HistAndPolarHist` function.
+Note: You can change the number of angular mesh elements by setting the variable `intervalAng` in the function `HistAndPolarHist`.
 
 ## Lagrangian approch
 
