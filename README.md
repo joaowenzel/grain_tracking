@@ -164,9 +164,8 @@ The variable `MD2SF` influences both approaches. It is the maximum distance that
    
 
  
-   Quiver            |  Contourf            
-:-------------------------:|:-------------------------: 
-![](Figures/TN15_quiver.jpg)  |   ![](Figures/TN15_contourf.jpg)
+ Contourf            
+![](Figures/TN15_contourf.jpg)
 
 <br />
 
@@ -176,13 +175,9 @@ These two charts show the main direction of the grains displacement and the magn
   
 
   
-  Radial mesh            |  Histogram           
-:-------------------------:|:-------------------------: 
-![](Figures/DuneRadius.jpg)  |   ![](Figures/TN14_hist.jpg)
-
+Radial mesh          
+![](Figures/DuneRadius.jpg)  
  <br />
-
-This chart presents the mean velocity as functions of the radial position r (with origin at the dune centroid).  In this figure, the abscissa corresponds to the radial position, the ordinate to the magnitude of the velocity vector, and the width of bars to the interval between the considered radial positions.
 
 Note: You can change the number of radial mesh elements by setting the variable `intervalDist` in the function `HistAndPolarHist`.
 
@@ -190,16 +185,9 @@ Note: You can change the number of radial mesh elements by setting the variable 
 
 
 
-  Angular mesh           |  Polar histogram           
-:-------------------------:|:-------------------------: 
-![](Figures/DuneAngles.jpg)  |   ![](Figures/TN17_polarHist.jpg)
-
+Angular mesh           
+![](Figures/DuneAngles.jpg) 
 <br />
-
-This chart presents the mean velocity as a function of the angle with respect to the transverse direction. In this figure, the numbers along the perimeter correspond to angles with respect to the transverse
-direction (the water flow direction is 270◦) and the height of
-bars to the magnitude of velocity, which can be measured
-using the radial scale along the 80◦ line.
 
 Note: You can change the number of angular mesh elements by setting the variable `intervalAng` in the function `HistAndPolarHist`.
 
@@ -216,15 +204,8 @@ In this approach, each grain is followed while still visible in the image. The c
 Note: Distances are given in "mm" and velocities in "mm/s".
 		
 ## Charts	
-
-
-  Position x time          |  Velocity x time           
-:-------------------------:|:-------------------------: 
-![](Figures/PxT_old.jpg)  |   ![](Figures/VELxT_old.jpg)
-
 <br />
 
-These charts show, respectively, the longitudinal and transverse positions, y and x, and the longitudinal and transverse velocities, vy and vx, of a tracer as functions of time.  The red continuous and blue dashed curves correspond to the y and x components, respectively.
 
 Note: The code does not automatically generate these charts, they are here just to exemplify a typical grain displacement over a barchan dune. 
 
